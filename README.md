@@ -1,7 +1,7 @@
 # GraphNeuralNetworkClassification
 Binary Classification if a graph is connected using a Graph Neural Network
 
-Here the left graph is not connected and receives prediction 0, the right graph is connected and receives prediction 1. 
+Here the left graph is connected and receives prediction 1, the right graph is not connected and receives prediction 0. 
 ![Intro](/imgs/Selection_209.png)
 
 Accuracy and Loss for a training session based on small random graphs. 
